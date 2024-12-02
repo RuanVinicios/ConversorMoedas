@@ -16,7 +16,7 @@
 
 Bem-vindo à documentação da aplicação `Conversor de moedas`.
 
-Uma ferramenta simples para `conversão` de `montantes` em `Real, Dollar e Euro`, desenvolvida por [Ruan Vinícios](https://ghttps://github.com/RuanVinicios).
+Uma ferramenta simples para `conversão` de `montantes` em `Real, Dollar e Euro`, desenvolvida por [Ruan Vinícios](https://github.com/RuanVinicios).
 
 Esta aplicação foi criada no contexto da bolsa do curso da [Oracle](https://www.oracle.com/br/), [Alura](https://www.alura.com.br/), com foco em `BackEnders iniciantes`.
 
@@ -103,9 +103,4 @@ Esperamos que esta documentação ajude você a compreender a aplicação.
 Fique à vontade para contribuir e adicionar melhorias ao código.
 
 Para mais informações, visite o LinkedIn de [Ruan Vinicios](https://www.linkedin.com/in/rvruan-vinicios/).
-
-Primeiro commit na data de 18/04/2024
-
-Demonstrativo:
-
-![0420.mp4](https://github.com/wesleyp846/ConvesorDeMoedas/blob/main/img/0420.mp4)
+s
